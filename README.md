@@ -1,0 +1,2 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x6ho4vtjitv57454?svg=true)](https://ci.appveyor.com/project/Ivan-Danilov996/paginationtable)
+https://ivan-danilov996.github.io/paginationtable/
